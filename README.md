@@ -1,25 +1,25 @@
 # GithubApp
 
-##### Esta es una aplicación web que muestra el historial de commits de un repositorio público de GitHub. Puedes buscar usuarios de GitHub y ver su información de perfil
+##### This is a web application that displays the commit history of a public GitHub repository. You can search for GitHub users,view their profile information, list of repos and commits of every repository.
 
-## Instalación
+## Installation
 
-##### Antes de comenzar, asegúrate de tener Node.js y npm (o yarn) instalados en tu sistema. Puedes descargar Node.js desde nodejs.org.
+##### Before you begin, make sure you have Node.js and npm (or yarn) installed on your system. You can download Node.js from nodejs.org.
 
-### Clona este repositorio en tu máquina local:
+### Clone this repository to your local machine using the following command on your terminal:
 
 ##### git clone https://github.com/amendoza26/githubApp.git
 
-### Ve al directorio del proyecto
+### Navigate to the project directory
 
 ##### cd githubapp
 
-### Instala las dependencias con el comando:
+### Install the dependencies using the following command:
 
 ##### npm install
 
-### Ejecutar programa:
+### Running the Program:
 
-##### Para ejecutar el programa puedes usar el comando "npm run dev" en tu consola.
+##### To run the program, you can use the "npm run dev" command in your console.
 
-###### (Recuerda que para obtener la data de usuarios y commits debes tener el repositorio del back ejecutando)
+###### (Remember that to fetch user and commit data, you should have the backend repository running)
